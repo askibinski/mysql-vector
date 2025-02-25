@@ -1,19 +1,14 @@
 {
-  "name": "askibinski/mysql-vector",
+  "name": "allanpichardo/mysql-vector",
   "description": "Perform vector operations natively on MySQL",
   "type": "library",
   "license": "MIT",
-  "version": "2.0.5",
+  "version": "2.0.4",
   "authors": [
     {
       "name": "Allan Pichardo",
       "email": "allan.pichardo@gmail.com",
       "homepage": "https://allanpichardo.com"
-    },
-    {
-      "name": "Albert Skibinski",
-      "email": "albert.skibinski@gmail.com",
-      "homepage": "https://albert.skibinski.nl"
     }
   ],
   "require": {

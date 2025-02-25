@@ -60,7 +60,7 @@ CREATE FUNCTION COSIM(v1 JSON, v2 JSON) RETURNS FLOAT DETERMINISTIC BEGIN DECLAR
      * @param array $vector
      * @return string
      */
-    private function vectorToHex(array $vector): string {
+    public function vectorToHex(array $vector): string {
         $bin = '';
 
         $bit = 0;
